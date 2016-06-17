@@ -1,0 +1,21 @@
+{
+	"name": "uploader",
+	"description": "Uploader",
+	"main": "upload.php",
+	"authors": [
+		"Deciare <deciare@isisview.org>"
+	],
+	"license": "MIT",
+	"homepage": "",
+	"private": true,
+	"ignore": [
+		"**/.*"
+	],
+	"dependencies": {
+		"angular": "^1.5.7",
+		"angular-bootstrap": "^1.3.3",
+		"bootstrap": "^3.3.6",
+		"jquery": "^2.2.3",
+		"ng-file-upload": "^12.0.4"
+	}
+}
